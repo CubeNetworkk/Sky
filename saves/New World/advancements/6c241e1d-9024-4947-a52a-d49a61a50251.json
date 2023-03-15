@@ -1,0 +1,213 @@
+{
+  "simplemagnets:recipes/search/advanced_demagnetization_coil": {
+    "criteria": {
+      "basis": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "modonomicon:modonomicon/root": {
+    "criteria": {
+      "modonomicon_present": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/advanced_wand_core": {
+    "criteria": {
+      "rod": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/swapping_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "exmachinis:root": {
+    "criteria": {
+      "tick": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/capturing_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2023-03-14 02:19:27 -0300"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/advanced_magnet": {
+    "criteria": {
+      "magnet": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/turtle_normal": {
+    "criteria": {
+      "has_normal": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/building_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/turtle_advanced": {
+    "criteria": {
+      "has_advanced": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:recipes/industrialforegoing_core/dryrubber": {
+    "criteria": {
+      "has_item": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/illumination_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/acceleration_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:recipes/industrialforegoing_core/plastic": {
+    "criteria": {
+      "has_plastic": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/teleportation_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/moving_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_magnet": {
+    "criteria": {
+      "iron": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/wand_core": {
+    "criteria": {
+      "rod": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/protection_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "notenoughwands:recipes/notenoughwands/displacement_wand": {
+    "criteria": {
+      "core": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_demagnetization_coil": {
+    "criteria": {
+      "iron": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/energy_trash_can": {
+    "criteria": {
+      "redstone": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/ultimate_trash_can": {
+    "criteria": {
+      "cans": "2023-03-14 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "energymeter:recipes/energymeter/meter": {
+    "criteria": {
+      "has_item": "2023-03-14 02:19:53 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

@@ -1,0 +1,5 @@
+#010 minecraft:forest
+#286 minecraft:grove
+#3DC minecraft:plains
+#5FF minecraft:river
+#169 minecraft:taiga

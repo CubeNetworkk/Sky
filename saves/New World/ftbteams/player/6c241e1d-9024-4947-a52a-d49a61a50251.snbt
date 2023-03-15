@@ -1,0 +1,20 @@
+{
+	id: "6c241e1d-9024-4947-a52a-d49a61a50251"
+	type: "player"
+	player_name: "SrNiix_"
+	ranks: {
+		6c241e1d-9024-4947-a52a-d49a61a50251: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "SrNiix_"
+		"ftbteams:color": "#ACFF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

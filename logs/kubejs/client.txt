@@ -1,0 +1,10 @@
+[14:06:05] [INFO ] Loaded script client_scripts:constants.js in 0.004 s
+[14:06:05] [INFO ] Loaded script client_scripts:jei_info.js in 0.001 s
+[14:06:05] [INFO ] Loaded script client_scripts:jei_removals.js in 0.04 s
+[14:06:05] [INFO ] Loaded script client_scripts:Jei_tooltips.js in 0.007 s
+[14:06:05] [INFO ] Loaded script client_scripts:ponder/bigger_reactors.js in 0.06 s
+[14:06:05] [INFO ] Loaded script client_scripts:ponder/corail.js in 0.009 s
+[14:06:05] [INFO ] Loaded script client_scripts:ponder/exnihilo.js in 0.013 s
+[14:06:05] [INFO ] Loaded script client_scripts:ponder/forbiddenarcanus.js in 0.003 s
+[14:06:05] [INFO ] Loaded script client_scripts:ponder/pylons.js in 0.003 s
+[14:06:05] [INFO ] Loaded 9/9 KubeJS client scripts in 0.284 s

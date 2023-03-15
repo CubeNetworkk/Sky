@@ -1,0 +1,112 @@
+[02:17:14] [INFO ] Loaded script server_scripts:constants.js in 0.004 s
+[02:17:14] [INFO ] Loaded script server_scripts:tags.js in 0.002 s
+[02:17:14] [INFO ] Loaded script server_scripts:unify.js in 0.026 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ex_nihilo/ex_nihilo.js in 0.005 s
+[02:17:14] [INFO ] Loaded script server_scripts:craftingenhancements.js in 0.002 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ae/ae.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/apotheosis/removals.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ATM/allthemodium.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ATM/atm_shard.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ATM/atm_star.js in 0.002 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ATM/atm_star_creative.js in 0.003 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ATM/custom_recipes.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/buildinggadgets/buildinggadgets.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/cobblefordays/cobblegen.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/computercraft/computercraft.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/exmachinis/orepiece.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/exmachinis/pebble.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/exmachinis/raw_ore.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ex_nihilo/ex_nihilo_pebbles.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/ftbic/ftbic.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/functionalstorge/compacting.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/mekanism/cobalt.js in 0.004 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/mekanism/mekanism.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/misc/music_discs.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/ma_crafting.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/ma_crops.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/mysticalagriculture.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/notenoughwands/removals.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/occultism/iesnium.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/projecte/projectE.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/projecte/worldTransmute.js in 0.002 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/reliquary/removals.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/rftools/rftools.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/spirit/transmutation.js in 0.003 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/thermal/rock_gen.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:mod_specific/twilightforest/twilight.js in 0.0 s
+[02:17:14] [INFO ] Loaded script server_scripts:sawmillCompat.js in 0.008 s
+[02:17:14] [INFO ] Loaded script server_scripts:stonecutting.js in 0.001 s
+[02:17:14] [INFO ] Loaded script server_scripts:xpFluids.js in 0.002 s
+[02:17:14] [INFO ] Loaded 39/39 KubeJS server scripts in 0.099 s
+[02:17:14] [INFO ] Scripts loaded
+[02:17:14] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[02:17:14] [INFO ] Scanning recipes...
+[02:17:37] [INFO ] [entity_types] Found 72 tags, added 106 objects, removed 0 objects
+[02:17:38] [INFO ] [blocks] Found 861 tags, added 1709 objects, removed 0 objects
+[02:17:38] [INFO ] [blocks] Found 861 tags, added 1709 objects, removed 0 objects
+[02:17:41] [INFO ] [items] Found 2750 tags, added 414 objects, removed 3 objects
+[02:17:41] [INFO ] [items] Found 2750 tags, added 414 objects, removed 3 objects
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/spawn_range[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/spawn_range[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/ignore_players_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/ignore_players_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/max_delay_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/max_delay_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/redstone_control[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/redstone_control[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/ignore_players[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/ignore_players[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/ignore_conditions[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/ignore_conditions[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/min_delay[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/min_delay[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/spawn_count[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/spawn_count[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/ignore_conditions_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/ignore_conditions_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/silent_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/silent_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/silent[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/silent[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/spawn_count_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/spawn_count_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:23] [WARN ] Failed to parse recipe 'apotheosis:spawner/ignore_light[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:23] [WARN ] Failed to parse recipe apotheosis:spawner/ignore_light[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/max_nearby[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/max_nearby[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/redstone_control_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/redstone_control_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/no_ai[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/no_ai[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/spawn_range_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/spawn_range_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/no_ai_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/no_ai_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/min_delay_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/min_delay_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/player_range[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/player_range[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/ignore_light_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/ignore_light_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/max_delay[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/max_delay[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/player_range_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/player_range_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [WARN ] Failed to parse recipe 'apotheosis:spawner/max_nearby_inverted[apotheosis:spawner_modifier]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: apotheosis:spawner_modifier
+[02:18:24] [WARN ] Failed to parse recipe apotheosis:spawner/max_nearby_inverted[apotheosis:spawner_modifier]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'apotheosis:spawner_modifier'
+[02:18:24] [INFO ] Found 26864 recipes and 0 failed recipes in 1.943 s
+[02:18:41] [ERR  ] server_scripts:mod_specific/ATM/atm_star.js:96: Failed to create recipe for type 'kubejs:shaped': twilightforest:snow_queen_trophy with key 'C' is not a valid ingredient!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:31: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_radiance is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:37: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_steps is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:43: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_superstitious is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:49: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_home is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:55: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_wayfarer is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:61: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_findings is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:67: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_maker is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:73: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_thread is not a valid result!
+[02:18:42] [ERR  ] server_scripts:mod_specific/misc/music_discs.js:79: Failed to create recipe for type 'kubejs:shaped': twilightforest:music_disc_motion is not a valid result!
+[02:18:44] [ERR  ] server_scripts:mod_specific/rftools/rftools.js:3: Failed to create recipe for type 'kubejs:shaped': rftoolsbuilder:builder is not a valid result!
+[02:18:45] [INFO ] Posted recipe events in 20.65 s
+[02:18:46] [INFO ] Modified & removed recipes in 743.0 ms
+[02:18:46] [INFO ] Added recipes in 49.61 ms
+[02:18:46] [INFO ] Added 2004 recipes, removed 1439 recipes, modified 2 recipes, with 0 failed recipes and 0 fall-backed recipes

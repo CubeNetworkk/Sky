@@ -1,0 +1,4 @@
+#52B53D minecraft:air
+#058353 minecraft:cobblestone
+#7C16F8 forbidden_arcanus:darkstone
+#DC3458 minecraft:stone

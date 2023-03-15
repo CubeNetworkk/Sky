@@ -1,0 +1,5 @@
+[14:06:05] [INFO ] Loaded script startup_scripts:customMekanism.js in 0.211 s
+[14:06:05] [INFO ] Loaded script startup_scripts:custom_stuff.js in 0.002 s
+[14:06:05] [INFO ] Loaded script startup_scripts:worldgen.js in 0.001 s
+[14:06:05] [INFO ] Loaded 3/3 KubeJS startup scripts in 11.644 s
+[14:06:05] [WARN ] Class filter is disabled!

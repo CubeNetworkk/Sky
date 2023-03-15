@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "6c241e1d90244947a52ad49a61a50251"
+	name: "SrNiix_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		46E0A1A561E38460: 1
+	}
+	started: {
+		23BDBBD3001F9774: 1678771166891L
+		46E0A1A561E38460: 1678771166891L
+		0000000000000001: 1678771166891L
+		69DBD1BDA43872D9: 1678771166891L
+	}
+	completed: {
+		23BDBBD3001F9774: 1678771166891L
+		46E0A1A561E38460: 1678771166891L
+		69DBD1BDA43872D9: 1678771166891L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
